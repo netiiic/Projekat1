@@ -1,0 +1,63 @@
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.csprojAssemblyReference.cache
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\MainWindow.g.cs
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\App.g.cs
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.cache
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.lref
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\MainWindow.baml
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.g.resources
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\AddPiano.g.cs
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\AddPiano.baml
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Change.g.cs
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Read.g.cs
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Change.baml
+D:\Yamato\Desktop\Predmetni zadatak1\Projekat1\Projekat1\obj\Debug\Read.baml
+D:\Antonina\Desktop\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\Antonina\Desktop\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\Antonina\Desktop\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csprojAssemblyReference.cache
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\AddPiano.g.cs
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Change.g.cs
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\MainWindow.g.cs
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Read.g.cs
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\App.g.cs
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.cache
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.lref
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\AddPiano.baml
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Change.baml
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\MainWindow.baml
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Read.baml
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.g.resources
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\Antonina\Desktop\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\bin\Debug\Projekat1.exe.config
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\bin\Debug\Projekat1.exe
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\bin\Debug\Projekat1.pdb
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.AssemblyReference.cache
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\AddPiano.g.cs
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Change.g.cs
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\MainWindow.g.cs
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Read.g.cs
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\App.g.cs
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.cache
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1_MarkupCompile.lref
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\AddPiano.baml
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Change.baml
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\MainWindow.baml
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Read.baml
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.g.resources
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.Properties.Resources.resources
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.GenerateResource.cache
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.csproj.CoreCompileInputs.cache
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.exe
+D:\Antonina\Documents\Fakultet\Obnovljena godina\Zimski semestar\HCI\Projekat1\Projekat1\obj\Debug\Projekat1.pdb
