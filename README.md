@@ -1,1 +1,1 @@
-Simple interactive program for adding, reading and chaning information.
+Simple interactive program for adding, reading and changing information.
